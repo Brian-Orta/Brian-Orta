@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brianorta/">IT Professional</h1>
+<h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-orta/">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
