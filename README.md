@@ -18,8 +18,12 @@ I'm <i><a href="https://linkedin.com/in/brian-orta">Brian</a></i>, an aspiring I
   - [osTicket: Post-Installation Configuration](https://github.com/brian-orta/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brian-orta/ticket-lifecycle)
 
-<h2>Connect with me:</h2>
+<h4>🤳Connect with me:</h4>
 
-[<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/i/brian-orta
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/brian-orta/
