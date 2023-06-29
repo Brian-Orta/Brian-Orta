@@ -10,7 +10,7 @@ I'm <i><a href="https://linkedin.com/in/brian-orta">Brian</a></i>, an aspiring I
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating an Azure Account & Establishing a Virtual Machine](https://github.com/brian-ora/azure-start)
+  - [Creating an Azure Account & Establishing a Virtual Machine](https://github.com/brian-orta/azure-start)
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/brian-orta/configure-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brian-orta/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)<b/>
