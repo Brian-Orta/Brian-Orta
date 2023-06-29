@@ -1,22 +1,25 @@
-<h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-orta/">IT Professional</h1>
+<p align="center">
+<Img width="800" src="https://i.imgur.com/WBQetw1.jpg" alt="my-banner">
+</p>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h1 align="center">
+Hi there! 👋🏼 
+<br>
+I'm <i><a href="https://linkedin.com/in/brian-orta">Brian</a></i>, an aspiring IT Professional</h1>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/brian-orta/osticket-prereqs)
+<h2>💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Creating an Azure Account & Establishing a Virtual Machine](https://github.com/brian-ora/azure-start)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/brian-orta/configure-active-directory)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brian-orta/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)<b/>
+  - [osTicket: Prerequisites and Installation](https://github.com/brian-orta/osticket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/brian-orta/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brian-orta/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brian-orta/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brian-orta/azure-network-protocols)
 
+<h2>Connect with me:</h2>
 
-<h4>🤳Connect with me:</h4>
+[<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/brianorta
+[linkedin]: https://www.linkedin.com/i/brian-orta
