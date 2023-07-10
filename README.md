@@ -1,7 +1,3 @@
-<p align="center">
-<Img width="800" src="https://i.imgur.com/WBQetw1.jpg" alt="my-banner">
-</p>
-
 <h1 align="center">
 Hi there! 👋🏼 
 <br>
@@ -18,12 +14,8 @@ I'm <i><a href="https://linkedin.com/in/brian-orta">Brian</a></i>, an aspiring I
   - [osTicket: Post-Installation Configuration](https://github.com/brian-orta/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brian-orta/ticket-lifecycle)
 
-<h4>🤳Connect with me:</h4>
+<h2>🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/brian-orta/
